@@ -22,9 +22,11 @@ public class Calculadora {
    * @return int o resultado deste método é a soma dos dois números.
    */
     
+   /*Método imcompleto
     public int somar(int numeroUm, int numeroDois) {
         return  numeroUm + numeroDois;
     }
+    */    
 }
 
 }
