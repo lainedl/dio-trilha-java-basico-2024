@@ -1,4 +1,4 @@
-package Metodos_05_OK;
+package SintaxeBasicaJava_02.AprendendoSintaxeJava_01.Metodos_05;
 
 public class MyClass {
 
