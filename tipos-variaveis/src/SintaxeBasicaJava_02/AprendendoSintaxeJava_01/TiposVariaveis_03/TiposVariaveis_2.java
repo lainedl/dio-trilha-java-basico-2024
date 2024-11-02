@@ -1,4 +1,5 @@
-public class TiposVariaveis {
+package SintaxeBasicaJava_02.AprendendoSintaxeJava_01.TiposVariaveis_03;
+public class TiposVariaveis_2 {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
 
