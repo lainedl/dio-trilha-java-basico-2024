@@ -39,7 +39,7 @@ public int somaMultiplica (int n, int x, String m){ //Mais de 1 ação
         r= n * x;
     }else{
         // se não soma mesmo
-        r = n + x
+        r = n + x;
     }
     return r;
 }

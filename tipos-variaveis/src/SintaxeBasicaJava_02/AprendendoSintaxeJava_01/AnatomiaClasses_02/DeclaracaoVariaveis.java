@@ -12,10 +12,10 @@ public class DeclaracaoVariaveis {
     //int long=1; // long faz parte das palavras reservadas da linguagem
 
     // Declaração válida de veriáveis
-    int numero$um = 1;
-    int numero1 = 1;
-    int numeroum = 1;
-    int longo = 1;
+    // Não usada Edi int numero$um = 1;
+    // Não usada Edi int numero1 = 1;
+    // Não usada Edi int numeroum = 1;
+    // Não usada Edi int longo = 1;
 
     /*
     //Não recomendado
@@ -30,7 +30,7 @@ public class DeclaracaoVariaveis {
     String meuNome = "JOSEPH"     
     */
         
-    final String BR = "Brasil"; // Não pode mudar esse valor em todo o programa.  
+    // Não usada Edi final String BR = "Brasil"; // Não pode mudar esse valor em todo o programa.  
     System.out.println("Teste");
     }
 

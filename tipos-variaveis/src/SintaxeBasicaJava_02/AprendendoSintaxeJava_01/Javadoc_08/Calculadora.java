@@ -21,9 +21,10 @@ public class Calculadora {
    * @param numeroDois este é o segundo parâmetro do método
    * @return int o resultado deste método é a soma dos dois números.
    */
-    }
+    
     public int somar(int numeroUm, int numeroDois) {
         return  numeroUm + numeroDois;
     }
 }
 
+}
