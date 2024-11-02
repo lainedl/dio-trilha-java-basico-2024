@@ -1,4 +1,4 @@
-package AnatomiaClasses;
+package SintaxeBasicaJava_02.AprendendoSintaxeJava_01.AnatomiaClasses_02;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {
@@ -10,4 +10,5 @@ public class BoletimEstudantil {
 		else
 			System.out.println("APROVADO");
 	}
+    
 }
