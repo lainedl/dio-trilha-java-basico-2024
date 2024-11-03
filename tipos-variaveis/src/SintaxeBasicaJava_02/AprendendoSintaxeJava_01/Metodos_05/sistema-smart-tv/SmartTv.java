@@ -1,4 +1,4 @@
-package SintaxeBasicaJava_02.AprendendoSintaxeJava_01.Metodos_05.Exercitando;
+//package SintaxeBasicaJava_02.AprendendoSintaxeJava_01.Metodos_05.Exercitando;
 public class SmartTv {
     boolean ligada = false;
     int canal = 1;
